@@ -1,0 +1,7 @@
+Name,Id,Department,Employee_type,Basic_salary,Health_allowances,House_allowances,Travelling_allowances,Hourly_rate,Contract_pay,Loan,Loan_installments,Other_deductions,Password,
+Ali,1,IT,Full_Time,45000.00,2300.00,5000.00,3000.00,-,-,0.00,0.00,0.00,ali123,
+Ahmed Raza,2,IT,Full_Time,45000.00,2300.00,5000.00,3000.00,-,-,0.00,0.00,0.00,ahmed123,
+Anus,3,Marketing,Part_Time,-,-,-,-,2000.00,-,0.00,0.00,0.00,anus123,
+Abid,4,Marketing,Part_Time,-,-,-,-,1800.00,-,0.00,0.00,0.00,abid123,
+Azhar,5,Management,Contract,-,-,-,-,-,40000.00,0.00,0.00,0.00,azhar123,
+Sami,6,IT,Full_Time,90000.00,12000.00,10000.00,5000.00,-,-,4000.00,1000.00,0.00,sami123,
